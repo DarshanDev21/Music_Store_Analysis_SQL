@@ -5,3 +5,4 @@ This project will teach how to analyze the music playlist database. You can exam
 <li>Postgre SQL</li>
 <li>PgAdmin4</li>
 Schema- Music Store Database
+<img src="https://github.com/DarshanDev21/Music_Store_Analysis_SQL/blob/main/MusicDatabaseSchema.png"></img>
